@@ -1,7 +1,9 @@
 'use strict';
 
-let name = 'Greetings!';
+let name1 = 'Greetings!';
+let name2;
 
-function greet(name) {
-  console.log(name)
+function greet(name1, name2) {
+  console.log(name1);
+  console.log(name2);
 }

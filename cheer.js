@@ -1,3 +1,4 @@
-const cheer = (text) => {
-  console.log(text)
+const cheer = (text, language) => {
+  console.log(text);
+  console.log(language);
 }

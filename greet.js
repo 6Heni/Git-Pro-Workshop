@@ -3,5 +3,5 @@
 let name = 'Greetings!';
 
 function greet(name) {
-  console.log(name)
+  console.log('Greetings for the ' + name)
 }

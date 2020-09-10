@@ -1,1 +1,3 @@
-console.log('The A Team');
+const cheer = (text) => {
+  console.log(text)
+}

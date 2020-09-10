@@ -1,3 +1,3 @@
-function count(age) {
-    console.log(`Your age is: ${age}`);
+function count(month) {
+    console.log(`The month of my birth is: ${month}`);
 }

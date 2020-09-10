@@ -1,5 +1,7 @@
 'use strict';
 
-function greet() {
-  console.log('Görög vagyok én')
+let name = 'Görög';
+
+function greet(name) {
+  console.log(name)
 }
